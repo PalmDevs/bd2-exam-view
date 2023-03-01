@@ -1,0 +1,10 @@
+# Everything
+*
+
+# But not the important files!
+!*.ts
+!*.tsx
+!*.css
+
+# Don't forget to check subdirectories as well
+!*/
